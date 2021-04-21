@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="61" viewBox="0 0 200 61">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 8.316px;
+        text-anchor: middle;
+        font-family: "Gmarket Sans";
+        font-weight: 700;
+      }
+
+      .cls-1 {
+        fill: #57b99d;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <text id="DESIGN" class="cls-1" transform="translate(66.593 40.444) scale(3.384 3.395)"><tspan x="0">DESIGN</tspan></text>
+  <text id="AMYLEEM_" data-name="AMYLEEM!" class="cls-2" transform="translate(99.959 41.577) scale(3.893 3.905)"><tspan x="0">AMYLEEM!</tspan></text>
+</svg>
